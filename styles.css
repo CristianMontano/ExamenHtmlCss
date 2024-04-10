@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 * {
-    background-color:#e8d9d6 ;
+    
     box-sizing: border-box;
     font-family: poppins;
 }
-
+body{background-color:#e8d9d6 ;}
 .izquierda{
     height: 35%;
     width: auto;
